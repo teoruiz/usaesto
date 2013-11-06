@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Recent Posts"
-tags: [Jekyll, theme, responsive, blog, template]
+title: "El setup"
+tags: ["asuntos internos"]
 image:
   feature: typewriter.jpg
 ---
