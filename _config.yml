@@ -1,8 +1,16 @@
 name: Usa esto
 markdown: redcarpet
 pygments: true
+permalink: /:title
+
+# Misc
+timezone: Europe/Madrid
+
 links:
   -
     external: false
     url: about
     title: About
+
+# Excluding stuff from the _site folder
+exclude: ['Rakefile', 'README.markdown']
