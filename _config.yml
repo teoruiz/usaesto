@@ -1,3 +1,8 @@
 name: Usa esto
 markdown: redcarpet
 pygments: true
+links:
+  -
+    external: false
+    url: about
+    title: About
