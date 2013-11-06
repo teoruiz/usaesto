@@ -341,7 +341,7 @@ input {
   float: left;
   width: 77%;
   margin: 0 1.5%;
-  max-width: 680px;
+  max-width: 800px;
   display: block;
   margin: 0 auto;
   float: none; }
@@ -519,9 +519,9 @@ header.site-header nav {
     list-style: none;
     display: inline;
     float: left;
-    width: 67%;
+    width: 87%;
     margin: 0 1.5%;
-    margin-left: 21.5%;
+    margin-left: 11.5%;
     display: block;
     float: none; }
     .archive-wrap .post-list lh h2 {
@@ -819,7 +819,7 @@ footer {
     display: block; }
     footer .prev-posts li {
       margin-top: 16.5px; } }
-@media only screen and (max-width: 680px) {
+@media only screen and (max-width: 800px) {
   /* All Posts */
   section.article img.loading {
     top: 10px !important;
