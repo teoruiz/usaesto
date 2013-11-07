@@ -2,6 +2,8 @@
 layout: post
 title:  "Sandor Katz"
 date:   2013-10-01 14:15:33
+image:
+  feature: sandor.katz.jpg
 categories: food
 ---
 
