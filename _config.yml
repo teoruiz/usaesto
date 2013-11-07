@@ -1,5 +1,7 @@
 name: Usa esto
 markdown: redcarpet
+owner:
+  email: info@usaesto.es
 pygments: true
 permalink: /:title
 
@@ -14,3 +16,4 @@ links:
 
 # Excluding stuff from the _site folder
 exclude: ['Rakefile', 'README.markdown']
+
