@@ -2,9 +2,10 @@
 layout: post
 title:  "Sandor Katz"
 date:   2013-10-01 14:15:33
+description: "Fermentation revivalist"
+categories: food
 image:
   feature: sandor.katz.jpg
-categories: food
 ---
 
 Who are you, and what do you do?
