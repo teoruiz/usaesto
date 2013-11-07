@@ -1,26 +1,23 @@
 ---
 layout: post
-permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
+permalink: /acerca-de/
+title: Acerca de Engranajes
+description: Engranajes es una serie de entrevistas a personajes de diversos ámbitos en las que nos cuentan qué herramientas usan para su trabajo.
 tags: [about, Jekyll, theme, responsive]
-image:
-  feature: soft-trees.jpg
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+Engranajes está basada en su versión original en inglés, [The Setup][the-setup], mantenida por [Daniel Bogan][daniel-bogan] desde principios de 2009.
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
+### ¿Cuándo se publican las entrevistas?
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
+Cada `x` tiempo.
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
+### ¿Quién lleva Engranajes?
 
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+[Teo][teo] y [Gabi][gabi].
+
+
+[the-setup]: http://usesthis.com/
+[daniel-bogan]: https://twitter.com/waferbaby
+[teo]: http://teoruiz.com
+[gabi]: http://gabi.is

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "El setup"
+title: "Engranajes"
 tags: ["asuntos internos"]
 image:
   feature: typewriter.jpg

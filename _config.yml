@@ -1,9 +1,9 @@
-name: Usa esto
+name: Engranajes
 markdown: redcarpet
 owner:
   email: info@usaesto.es
 pygments: true
-permalink: /:title
+permalink: /:title/
 
 # Misc
 timezone: Europe/Madrid
@@ -11,8 +11,8 @@ timezone: Europe/Madrid
 links:
   -
     external: false
-    url: about
-    title: About
+    url: /acerca-de
+    title: Acerca de
 
 # Excluding stuff from the _site folder
 exclude: ['Rakefile', 'README.markdown']
