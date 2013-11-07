@@ -16,8 +16,13 @@ Cada `x` tiempo.
 
 [Teo][teo] y [Gabi][gabi].
 
+### ¿Por qué no entrevistáis a... ?
+
+Si quieres sugerir una entrevista no tienes más que mandar un correo a info@usaesto.es o contactar con nosotros vía [twitter][twitter].
+
 
 [the-setup]: http://usesthis.com/
 [daniel-bogan]: https://twitter.com/waferbaby
 [teo]: http://teoruiz.com
 [gabi]: http://gabi.is
+[twitter]: http://twitter.com/usa_esto
