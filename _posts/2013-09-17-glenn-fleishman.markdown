@@ -3,6 +3,7 @@ layout: post
 title:  "Glenn Fleishman"
 date:   2013-09-17 14:15:33
 categories: food
+description: "Editor (The Magazine), podcaster (The New Disruptors)"
 image:
   feature: glenn.fleishman.jpg
 ---
