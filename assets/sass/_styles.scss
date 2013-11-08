@@ -561,7 +561,11 @@ footer {
     font-size: $fsp;
     color: $white;
     position: relative;
-        
+
+    a {
+        color: $linkCompGreen;
+    }
+
     // Contain that ish
     section {
         @include column(10);
@@ -579,15 +583,18 @@ footer {
         bottom: 8px;
         font-family: $sans;
         text-transform: uppercase;
-        color: transparentize($white, .9);
+        color: transparentize($white, .3);
         a {
-            color: transparentize($white, .7);
+            color: transparentize($white, .5);
+            &:visited {
+                color: transparentize($white, .5);
+            }
         }
     }
     
     .list-title {
         margin-bottom: $lh/2;
-        border-bottom: 2px solid $link;
+        border-bottom: 2px solid $linkCompGreen;
         font-style: italic;
         font-size: $fs4;
     }
@@ -600,12 +607,14 @@ footer {
             padding-top: $lh*2;
         }
         li {
+
             @include row(12);
             margin-top: $lh/2;
             .recent-title {
                 @include column(8,12);
                 font-style: italic;
                 a {
+                    color: $linkCompGreen;
                     &:hover {
                         color: $white;
                     }
