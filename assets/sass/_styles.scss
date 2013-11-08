@@ -563,7 +563,7 @@ footer {
     position: relative;
 
     a {
-        color: $linkCompGreen;
+        color: transparentize($white, .3);
     }
 
     // Contain that ish
@@ -594,7 +594,7 @@ footer {
     
     .list-title {
         margin-bottom: $lh/2;
-        border-bottom: 2px solid $linkCompGreen;
+        border-bottom: 2px solid $white;
         font-style: italic;
         font-size: $fs4;
     }
@@ -614,7 +614,7 @@ footer {
                 @include column(8,12);
                 font-style: italic;
                 a {
-                    color: $linkCompGreen;
+                    color: transparentize($white, .3);
                     &:hover {
                         color: $white;
                     }
