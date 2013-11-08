@@ -1,7 +1,7 @@
 ## Installation
 
 ```
-$ gem install jekyll
+$ gem install jekyll sass i18n
 ```
 
 ## Running
