@@ -1,7 +1,9 @@
 name: Engranajes
 markdown: redcarpet
 owner:
+  name: Engranajes
   email: info@usaesto.es
+  twitter: los_engranajes
 pygments: true
 permalink: /:title/
 
