@@ -167,6 +167,11 @@ input {
     float: none;
 }
 
+body.home {
+    background-image: url(/images/Gear_shape_dark_red.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+}
 
 /* Header */
 
@@ -703,6 +708,11 @@ footer {
    ========================================================================== */
 
 @media only screen and (max-width: 500px) {
+
+    body.home {
+        background-size: contain;
+    }
+
     footer {
     
     .social {
