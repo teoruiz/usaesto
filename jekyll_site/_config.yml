@@ -17,5 +17,5 @@ links:
     title: Acerca de
 
 # Excluding stuff from the _site folder
-exclude: ['Rakefile', 'README.markdown']
+exclude: []
 
