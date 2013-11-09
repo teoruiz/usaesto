@@ -1,4 +1,5 @@
 name: Engranajes
+title: Engranajes
 markdown: redcarpet
 owner:
   name: Engranajes
@@ -18,4 +19,3 @@ links:
 
 # Excluding stuff from the _site folder
 exclude: ['Rakefile', 'README.markdown']
-
