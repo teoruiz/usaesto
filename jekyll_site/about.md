@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: page
 permalink: /acerca-de/
 title: Acerca de Engranajes
 description: Engranajes es una serie de entrevistas a personajes de diversos ámbitos en las que nos cuentan qué herramientas usan para su trabajo.
+image:
+  feature: rusty_gears.jpg
 ---
 
 Engranajes está basada en su versión original en inglés, [The Setup][the-setup], mantenida por [Daniel Bogan][daniel-bogan] desde principios de 2009.
