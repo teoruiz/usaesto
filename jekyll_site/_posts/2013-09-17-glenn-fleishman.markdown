@@ -35,15 +35,15 @@ Mi máquina principal es un [Mac Mini][mac-mini] de 2011, al que hace poco le
 subí la RAM de 8 a 16 GB (por menos de $100), con dos pantallas externas de 19
 pulgadas. Tengo dos teclados. Un [Matias Tactile Pro][matias-tactile-pro]
 (modelo FK302) que uso para todo excepto cuando tomo notas o transcribo mientras
-hablo con alguien por teléfono o VoIP. Para eso, tengo un
+hablo con alguien por teléfono o VoIP. Para esto último, tengo un
 [Macally icekey][macally-icekey] que ya no se vende. Ya he gastado dos teclados
-Matias con anterioridad a base de una cantidad increíble de uso. Aprendí a
+Matias con anterioridad a base de darles un uso desmesurado. Aprendí a
 mecanografiar a los 11 años y escribo a unas 100 ppm.
 
 Este ordenador lo uso con un escritorio de los de estar de pie que también tiene
-un [treadmill][treadmill] que uso mientros trabajo. Cuando solo estoy de pie, lo
-hago sobre una esterilla de espuma. Esto se encuentra en una oficina en el
-sótano de mi casa.
+una [cinta de correr][treadmill], que uso mientras trabajo. Cuando solo estoy de
+pie, lo hago sobre una esterilla de espuma. Todo esto se encuentra en una
+oficina en el sótano de mi casa.
 
 Para trabajar por la ciudad, en la carretera o en la planta de arriba de mi
 casa, echo mano de mi [MacBook Air][macbook-air] de 2011, al que quiero más que
@@ -51,7 +51,7 @@ a ningún portátil de todos los que he tenido, a pesar de que su placa base mur
 aproximadamente a los 13 meses de vida y yo no había contratado la garantía
 extendida que siempre contrato para los portátiles de Apple. (Consejo
 profesional: las tiendas de Apple no necesariamente te lo dicen, pero uno de los
-genios de la tienda que hay cerca de mi casa sí me lo dijo. Por un poco más que
+genios de la tienda que hay cerca de mi casa sí me lo dijo. Por poco más de
 lo que cuesta la garantía AppleCare, puedes conseguir una reparación de
 cualquier cosa que tenga mal un Mac, pero hay que enviarlo durante unos días a
 un almacén central. A mí me arreglaron una placa base de más de 800$ por unos
@@ -63,7 +63,7 @@ introducir datos. Y un [iPhone 5][iphone-5] puede ser una
 oficina-lejos-de-portátiles muy efectiva.
 
 Mis hijos tienen acceso (con control parental) a un [iPod touch][ipod-touch] muy
-antiguo y a un [iPhone 3GS][iphone-3gs] (con los datos móbiles desactivados),
+antiguo y a un [iPhone 3GS][iphone-3gs] (con los datos móviles desactivados),
 además de un [iPad 2][ipad-2] y un [MacBook][macbook] de 2009.
 
 [mac-mini]: http://www.apple.com/macmini/
@@ -107,7 +107,7 @@ Mi cliente de Twitter en el escritorio y en iOS es [Tweetbot][tweetbot]. Uso
 [Kiwi][kiwi] para App.net en mi Mac y [Netbot][netbot] en iOS. Mi único problema
 con Kiwi es que le falta soporte para varias cuentas.
 
-Me pasé el mes de mayo programando y diseñando para sacar varios cambios menores
+Me pasé el mes de mayo programando y diseñando varios cambios menores
 en The Magazine tras terminar mi proceso de compra. En la parte de bajo nivel,
 estuve usando [PHP][php] con [jQuery][jquery] para [JavaScript][javascript] y
 [Stripe][stripe] para procesar los pagos con tarjeta de crédito. En la parte de
@@ -121,7 +121,7 @@ funcionalidad fue absorbida por el software de desarrollo web
 [Espresso][espresso], de la misma compañía.
 
 [Skype][skype] no tiene precio. Por irritante que pueda ser y por mucho que me
-disgusten los cambios en la interfaz de usuario en la actualización 5.x para
+disgusten los cambios en la interfaz de usuario de la actualización 5.x para
 Mac, sigo dependiendo de él. Hace años que me deshice de la línea de teléfono
 fijo para pasarme a [Vonage][vonage], hasta que descubrí que Skype era mucho más
 barato, más flexible y no estaba nada mal. Cuando grabo mi podcast, uso Skype
