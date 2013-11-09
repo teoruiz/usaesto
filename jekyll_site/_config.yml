@@ -1,5 +1,7 @@
 name: Engranajes
 title: Engranajes
+description: Entrevistas a personajes sobre sus herramientas de trabajo.
+url:
 markdown: redcarpet
 owner:
   name: Engranajes
@@ -18,4 +20,5 @@ links:
     title: Acerca de
 
 # Excluding stuff from the _site folder
-exclude: ['Rakefile', 'README.markdown']
+exclude: []
+
