@@ -23,11 +23,12 @@ Si quieres sugerir una entrevista no tienes más que mandar un correo a info@usa
 
 ### ¿Qué licencia tienen las entrevistas?
 
-Los textos de las entrevistas y las fotos en Engranajes tienen licencia [Creative Commons][creative-commons] si no se indica lo contrario. 
+Los textos de las entrevistas y las fotos en Engranajes tienen licencia [Creative Commons][creative-commons] si no se indica lo contrario. La foto de cabecera de esta página es de [Arby Reed][arby-reed-gears-flickr]. 
 
 [the-setup]: http://usesthis.com/
 [daniel-bogan]: https://twitter.com/waferbaby
 [teo]: http://teoruiz.com
 [gabi]: http://gabi.is
-[twitter]: http://twitter.com/usa_esto
+[twitter]: http://twitter.com/los_engranajes
 [creative-commons]: http://creativecommons.org/licenses/by-sa/3.0/deed.es_ES
+[arby-reed-gears-flickr]: http://www.flickr.com/photos/19779889@N00/4398186065/
