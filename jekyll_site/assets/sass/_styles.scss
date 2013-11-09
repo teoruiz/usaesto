@@ -569,6 +569,9 @@ footer {
 
     a {
         color: transparentize($white, .3);
+        &:visited {
+            color: transparentize($white, .5);
+        }
     }
 
     // Contain that ish
