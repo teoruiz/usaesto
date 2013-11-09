@@ -16,7 +16,7 @@ timezone: Europe/Madrid
 links:
   -
     external: false
-    url: /acerca-de
+    url: /acerca-de/
     title: Acerca de
 
 # Excluding stuff from the _site folder
