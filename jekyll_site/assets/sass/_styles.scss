@@ -16,7 +16,7 @@ h1,h2,h3,h4,h5 {
 }
 
 p {
-    margin-bottom: $lh;
+    margin-bottom: $lh*0.8;
 }
 
 a, a:visited, a:active {
@@ -326,7 +326,7 @@ header.site-header nav {
                 font-family: $sans;
                 font-size: $fs5;
                 font-weight: bold;
-                color: $grey-light;
+                color: $grey-medium;
                 text-transform: uppercase;
                 margin-top: $lh * 2/3;
             }
