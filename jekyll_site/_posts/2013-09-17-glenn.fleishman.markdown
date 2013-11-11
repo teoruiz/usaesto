@@ -161,3 +161,5 @@ gustaría encontrar una pantalla IPS asequible y compacta, pero todas las que
 veo tienen relación de aspecto 16:9 y son enormes. También me gustaría pasarlo
 todo a SSD: tanto el arranque como la copia de seguridad local. Pero el coste es
 demasiado elevado para mis necesidades actuales de almacenamiento.
+
+<small><a href="http://glenn.fleishman.usesthis.com/">Versión original en inglés</a>.</small>
