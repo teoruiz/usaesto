@@ -1,7 +1,7 @@
 name: Engranajes
 title: Engranajes
 description: Entrevistas a personajes sobre sus herramientas de trabajo.
-url:
+url: http://localhost:4000
 markdown: redcarpet
 owner:
   name: Engranajes
