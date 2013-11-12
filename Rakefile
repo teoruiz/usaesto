@@ -21,7 +21,7 @@ end
 
 desc "Run development server"
 task :serve do
-	jekyllPid = Process.spawn("jekyll serve -s #{source_dir} --watch")
+	jekyllPid = Process.spawn("jekyll serve -s #{source_dir} --watch --future --drafts")
 	sassPid = Process.spawn("sass --watch #{source_dir}/assets/sass:#{source_dir}/assets/css")
 
 	trap("INT") {

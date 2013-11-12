@@ -5,6 +5,18 @@
 {% if page.image.feature %}
   <div class="overlay"></div>
   <div class="featured-image" style='background-image: url({{ site.url }}/images/people/{{ page.image.feature }})'></div>
+  {% if page.image.author %}
+  <div class="image-credit">
+    <div class="image-credit-container">
+      {% if page.image.url %}
+      <span>Fotografía de <a href="{{ page.image.url }}">{{ page.image.author }}</a></span>
+      {% else %}
+      <span>Fotografía de {{ page.image.author }}</span>
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
+
 {% else %}
   <div class="overlay"></div>
   <div class="featured-image" style="background-image: url({{ site.url }}/images/rusty_gears.jpg)"></div>
