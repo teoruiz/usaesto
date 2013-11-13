@@ -16,7 +16,7 @@ end # task :minify
 desc "Build production snapshot of the site"
 task :build do
 	system "sass --update #{source_dir}/assets/sass:#{source_dir}/assets/css --style compressed --force"
-	system "jekyll build -D -s #{source_dir} --config #{source_dir}/_config.yml,#{source_dir}/_config_production.yml"
+	system "jekyll build -s #{source_dir} --config #{source_dir}/_config.yml,#{source_dir}/_config_production.yml"
 end
 
 desc "Run development server"
