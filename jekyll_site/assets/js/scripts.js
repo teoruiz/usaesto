@@ -22,6 +22,8 @@ $(document).ready(function() {
     var vH = vpH - 350;
     $('.overlay').css("height", vH);
     $('.featured-image').css("height", vH);
+    $('.image-credit').css("height", vH);
+    $('.image-credit-container').css("height", vH);
 });
 
 
