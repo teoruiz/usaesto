@@ -53,15 +53,15 @@
   <body class="home">
     <header class="site-header">
       <div class="wrap">
-        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <a href="#nav" class="menu"><span class='icons'{% if page.navcolor %} style="color: {{ page.navcolor }};"{% endif %}>☰</span></a>
         <nav role="navigation">
           <ul>
             <li>
-              <a href="{{ site.url }}" title="{{ site.title }}">Inicio</a>
+              <a href="{{ site.url }}" title="{{ site.title }}"{% if page.navcolor %} style="color: {{ page.navcolor }};"{% endif %}>Inicio</a>
             </li>
             
             {% for link in site.links %}
-                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}{% if page.navcolor %} style="color: {{ page.navcolor }};"{% endif %}>{{ link.title }}</a></li>
             {% endfor %}
 
           </ul>
