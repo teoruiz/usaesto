@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "Ícaro Moyano Díaz"
+slug: icaro.moyano
+published: false
+categories: periodismo, comunicación
+description: "Periodista experto en comunicación empresarial, redes sociales y nuevos medios"
+image:
+  feature: icaro.moyano.jpg
+---
+
+### ¿Quién eres y a qué te dedicas?
+
+Soy Ícaro Moyano y también soy [@viejomoeb][viejomoeb], claro. Llevo trabajando
+pegado a un teclado desde hace unos 15 años como periodista y experto
+en comunicación y desarrollo de negocio digital. Ahora ejerzo de
+Director de Comunicación en [Kuapay][kuapay] para expandir su servicio de pago
+móvil en EE. UU., latinoamérica y España. Me encantan los periódicos de papel y
+las bicicletas.
+
+[viejomoeb]: https://twitter.com/viejomoeb
+[kuapay]: https://www.kuapay.com/
+
+### ¿Qué hardware utilizas?
+
+Desde que trabajamos con sistemas de almacenamiento remotos, mi
+dependencia de hardware informático es cada vez menor. Ahora mismo uso
+como equipo principal un [MacBook Air][macbook-air] de 13 pulgadas y un segundo
+monitor (fundamental para mantener varias tareas de trabajo y
+monitorización de forma simultánea). No uso teclado externo ni ratón desde
+hace años.
+
+Justo al lado, unos auriculares [Monster Beats by Dr. Dre][monster-beats] para
+escuchar música mientras trabajo.
+
+Llevo encima de forma habitual dos [iPhone 5][iphone] que uso sobre todo cuando
+ando fuera de la oficina, algo bastante habitual. ¿Cuándo harán baterías
+decentes para estos chismes? Pues por eso, en parte, llevo dos.
+
+Supongo que como hardware también tengo que contar la bici: un [cuadro
+de Leader][cuadro-leader] de menos de dos kilos de peso para ir ágil por la
+ciudad, un [buje Sturmey Archer][buje-sturmey-archer] de cambio interno para
+suavizar las cuestas de Madrid y una rueda delantera de carbono recién
+adquirida.
+
+[macbook-air]: http://www.apple.com/macbook-air/
+[monster-beats]: http://www.beatsbydre.com/
+[iphone]: http://www.apple.com/iphone/
+[cuadro-leader]: http://www.leaderbikes.com/products/frames
+[buje-sturmey-archer]: http://www.sturmey-archer.com/products/hubs.html
+
+### ¿Y qué software?
+
+Lo primero que abro por la mañana delante de la mesa de trabajo es
+[Chrome][chrome] y justo después [Mail][apple-mail]. Pero antes de eso ya he
+trasteado en el iPhone para trillar el correo, las alertas de
+[Google News][google-news] y las búsquedas rutinarias de Twitter.
+
+Básicamente, mi trabajo se ordena entre aplicaciones de filtro de
+información y aplicaciones de producción de contenidos.
+
+En un lado tenemos, por ejemplo, [Feedly][feedly] (¡ay
+[Google Reader][google-reader], cuánto te añoramos...!), [TweetDeck][tweetdeck]
+y algún otro software de monitorización de redes sociales (que puede ser, por
+ejemplo, [HootSuite][hootsuite]).
+
+En el apartado de la producción, muchas horas giran alrededor de
+Chrome, el correo y documentos a varias manos en [Drive][google-drive] o
+archivos en [Dropbox][dropbox]. Para escribir suelo usar [Pages][apple-pages] a
+falta de algo mejor y hago las presentaciones que usamos en conferencias con
+[Keynote][apple-keynote].
+
+En una empresa como la nuestra (tres oficinas en tres continentes distintos),
+hay un conjunto de aplicaciones también fundamentales: los sistemas de
+mensajería y el calendario. Nosotros solemos usar de forma habitual
+[Google Talk][google-talk] y, sobre todo, [Skype][skype].
+
+[chrome]: https://www.google.com/intl/en/chrome/browser/
+[apple-mail]: http://en.wikipedia.org/wiki/Mail_(application)
+[google-news]: https://news.google.com/
+[feedly]: http://www.feedly.com/‎
+[google-reader]: http://www.google.com/reader/
+[tweetdeck]: http://tweetdeck.com/
+[hootsuite]: https://hootsuite.com/
+[google-drive]: https://drive.google.com/
+[dropbox]: https://www.dropbox.com/
+[apple-pages]: https://www.apple.com/mac/pages/
+[apple-keynote]: http://www.apple.com/mac/keynote/
+[google-talk]: http://www.google.com/hangouts/
+[skype]: http://www.skype.com/
+
+### ¿Cuál sería tu equipo de ensueño?
+
+Creo que con el MacBook Air ando bastante cerca de todo lo que
+necesito para trabajar y moverme. Estoy convencido de que el nuevo
+[iPad Mini Retina][ipad-mini] acabará en mis manos y será una herramienta que le
+quitará muchas horas de uso a los iPhone. Pero para que la ecuación
+funcione es fundamental mejorar la vida útil de las baterías o al
+final vamos a ir siempre cargaos de cables y baterías externas.
+
+[ipad-mini]: http://www.apple.com/ipad-mini/
