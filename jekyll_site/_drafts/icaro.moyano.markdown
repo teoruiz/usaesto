@@ -52,7 +52,7 @@ adquirida.
 ### ¿Y qué software?
 
 Lo primero que abro por la mañana delante de la mesa de trabajo es
-[Chrome][chrome] y justo después [Mail][apple-mail]. Pero antes de eso ya he
+[Chrome][chrome] y, justo después, [Mail][apple-mail]. Pero antes de eso ya he
 trasteado en el iPhone para trillar el correo, las alertas de
 [Google News][google-news] y las búsquedas rutinarias de Twitter.
 
@@ -94,8 +94,8 @@ mensajería y el calendario. Nosotros solemos usar de forma habitual
 Creo que con el MacBook Air ando bastante cerca de todo lo que
 necesito para trabajar y moverme. Estoy convencido de que el nuevo
 [iPad Mini Retina][ipad-mini] acabará en mis manos y será una herramienta que le
-quitará muchas horas de uso a los iPhone. Pero para que la ecuación
-funcione es fundamental mejorar la vida útil de las baterías o al
-final vamos a ir siempre cargaos de cables y baterías externas.
+quitará muchas horas de uso a los iPhone. Pero, para que la ecuación
+funcione, es fundamental mejorar la vida útil de las baterías o al
+final vamos a ir siempre cargados de cables y baterías externas.
 
 [ipad-mini]: http://www.apple.com/ipad-mini/

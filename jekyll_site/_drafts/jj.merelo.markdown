@@ -29,16 +29,16 @@ Dos móviles Samsung Galaxy (un [Galaxy Mini][galaxy-mini] y un
 [Galaxy Ace 3][galaxy-ace-3]), un portátil [Toshiba Portegé Z830-10F][portege],
 un [Kindle Paperwhite][kindle-paperwhite], un sobremesa *no-name* con un [AMD
 Phenom(tm) II X6 1090T][phenom], mucha memoria, muchos discos duros (en RAID) y
-todo eso. Aparte de otros *no-name* comprados todos en [Documedia][documedia] en
-Granada en diferentes despachos.
+todo eso. Aparte de otros *no-name*, comprados todos en [Documedia][documedia],
+en Granada, para diferentes despachos.
 
 En el sobremesa tengo 16 GB de RAM. En el portátil, 4. Soy de mucha RAM. En los
 móviles, la que traen por defecto, la verdad es que no lo sé. No soy de
-cambiarles nada a los móviles, vienen con el Android original, el 3 creo
+cambiarles nada a los móviles, vienen con el Android original, el 3, creo
 que es. Si lo cambiara, trataría de hacerlos más libres, usando el mod de
 [Cyanogen][cyanogenmod] pero, la verdad, teniendo en cuenta que acabo de
-actualizar un [Fedora][fedora] 8 que tenía, os hacéis a la idea que lo de
-actualizar constantemente los sistemas operativos no son lo mío.
+actualizar un [Fedora][fedora] 8 que tenía, os hacéis a la idea de que lo de
+actualizar constantemente los sistemas operativos no es lo mío.
 
 Un infusor de té con bastantes años y capas de
 la susodicha infusión. Sin él casi que no podría usar ninguno de los otros.
@@ -55,23 +55,23 @@ la susodicha infusión. Sin él casi que no podría usar ninguno de los otros.
 ### ¿Y qué software?
 
 [Chromium][chromium], [Firefox][firefox], [terminal][emulador-terminal],
-[Emacs][emacs], [Gnome][gnome], [Ubuntu][ubuntu] (generalmente 12.04). Soy muy
-de [LTS][ubuntu-lts]. [Clementine][clementine] para la música. Eso ahora mismo.
+[Emacs][emacs], [Gnome][gnome], [Ubuntu][ubuntu] (generalmente 12.04, soy muy
+de [LTS][ubuntu-lts]). [Clementine][clementine] para la música. Eso ahora mismo.
 Uso [perl][perl] y, últimamente, mucho [node.js][node.js] para programar (y
 otros sabores de JavaScript: [JQuery][jquery], por ejemplo).
 
 Mi última novela, [Hoborg][hoborg], está escrita en [Markdown][markdown]
-usando Emacs. Estaba metida en un repositorio de [GitHub][hoborg-github] y cada
-vez que se hacía un commit se mandaba a [Travis-CI][travis-ci] para comprobar la
-ortografía (usando [integración continua][integracion-continua] para algo para
-lo que, seguramente, no fue diseñada) y la calidad del texto usando métricas.
-Al final, está distribuida tanto en [Amazon][hoborg-amazon] como en
+usando Emacs. Estaba metida en un repositorio de [GitHub][hoborg-github] y, cada
+vez que se hacía un commit, se mandaba a [Travis-CI][travis-ci] para comprobar
+la ortografía (usando [integración continua][integracion-continua] para algo
+para lo que, seguramente, no fue diseñada) y la calidad del texto usando
+métricas. Al final, está distribuida tanto en [Amazon][hoborg-amazon] como en
 [OpenShift][openshift] (se sirve desde un servidor node.js a partir del fuente
 en Markdown) como un módulo Perl (que, por cierto, da algún error últimamente y
 tengo que corregir). Los mensajes de los commits sirven como
 [diario de escritura][hoborg-commits].
 
-[chromium]: http://www.chromium.org/Home
+[chromium]: http://www.chromium.org/
 [firefox]: http://www.mozilla.org/es-ES/firefox/
 [emulador-terminal]: http://es.wikipedia.org/wiki/Emulador_de_terminal
 [emacs]: http://www.gnu.org/software/emacs/
