@@ -2,7 +2,7 @@
 layout: post
 title:  "Nacho Palou"
 slug: nacho.palou
-published: false
+published: true
 categories: blogs
 description: "Coautor de Microsiervos"
 image:
