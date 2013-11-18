@@ -2,7 +2,7 @@
 layout: post
 title:  "Javier de la Cueva"
 slug: javier.delacueva
-published: false
+published: true
 categories: derecho, programación
 description: "Abogado, experto en propiedad intelectual"
 image:
