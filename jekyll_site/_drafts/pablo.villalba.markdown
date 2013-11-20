@@ -11,7 +11,7 @@ image:
 
 ### ¿Quién eres y a qué te dedicas?
 
-Soy [Pablo](pablo)([@micho][@micho]), un emprendedor y diseñador de producto.
+Soy [Pablo](pablo) ([@micho][@micho]), un emprendedor y diseñador de producto.
 Soy el fundador de Teambox, una [plataforma de colaboración](http://teambox.com)
 con 650&nbsp;000 usuarios y millones de dólares en facturación.
 
