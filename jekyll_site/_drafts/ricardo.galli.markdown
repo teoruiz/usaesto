@@ -7,6 +7,8 @@ categories: programación
 description: "Doctor en informática, creador de Menéame"
 image:
   feature: ricardo.galli.jpg
+  author: Jonan Basterra
+  url: https://www.flickr.com/photos/96862948@N00/3033853641/
 ---
 
 ### ¿Quién eres y a qué te dedicas?
