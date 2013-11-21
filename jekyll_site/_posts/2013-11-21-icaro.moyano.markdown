@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ícaro Moyano Díaz"
+title:  "Ícaro Moyano"
 slug: icaro.moyano
-published: false
+published: true
 categories: periodismo, comunicación
 description: "Periodista experto en comunicación empresarial, redes sociales y nuevos medios"
 image:
