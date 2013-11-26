@@ -2,7 +2,7 @@
 layout: post
 title:  "Victoriano Izquierdo"
 slug: victoriano.izquierdo
-published: false
+published: true
 categories: programación, fotografía
 description: "Fotógrafo"
 image:
