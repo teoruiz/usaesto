@@ -74,7 +74,7 @@ En mi móvil uso [Mailbox][mailbox], [WhatsApp][whatsapp] en grupos de trabajo y
 amigos y la app de Teambox para iOS, que sacaremos en unos días. También uso
 [Instapaper][instapaper] para leer cosas interesantes cuando saco ratos.
 
-Por último, tengo la [verificación en dos pasos](2-factor-auth) activada para
+Por último, tengo la [verificación en dos pasos][2-factor-auth] activada para
 todas mis cuentas de correo y uso [Prey][prey] para localizar mis dispositivos
 en caso de robo.
 
