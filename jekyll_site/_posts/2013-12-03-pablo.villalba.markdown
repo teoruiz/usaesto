@@ -2,7 +2,7 @@
 layout: post
 title:  "Pablo Villalba"
 slug: pablo.villalba
-published: false
+published: true
 categories: programación
 description: "Diseñador de producto, fundador de Teambox"
 image:
