@@ -126,7 +126,7 @@ de versiones, [Bitbucket][bitbucket] para repositorios privados gratis.
 [Heroku][heroku] para desplegar experimentos. En fotografía, [Adobe Camera RAW
 ][adobe-camera-raw] para revelar los RAW y, a veces, algo de
 [Photoshop][photoshop]. No soporto [Lightroom][lightroom], la interfaz compleja
-me distrae. [iA Writer][ia-writer] para concertare escribiendo textos largos.
+me distrae. [iA Writer][ia-writer] para concentrarte escribiendo textos largos.
 [Trello][trello], [Evernote][evernote], [Google Docs][google-docs] para
 organizar varios proyectos compartidos. [Skype][skype] para estar siempre cerca
 de familia y amigos.

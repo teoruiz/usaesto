@@ -2,7 +2,7 @@
 layout: post
 title:  "Ricardo Galli"
 slug: ricardo.galli
-published: false
+published: true
 categories: programación
 description: "Doctor en informática, creador de Menéame"
 image:
