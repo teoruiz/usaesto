@@ -2,7 +2,7 @@
 layout: post
 title:  "JJ Merelo Guervós"
 slug: jj.merelo
-published: false
+published: true
 categories: programación
 description: "Profesor, investigador y escritor"
 image:
