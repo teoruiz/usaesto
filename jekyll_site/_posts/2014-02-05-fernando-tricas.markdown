@@ -2,7 +2,7 @@
 layout: post
 title:  "Fernando Tricas"
 slug: fernando.tricas
-published: false
+published: true
 categories: programación
 description: "Profesor de informática, bloguero"
 image:

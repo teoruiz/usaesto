@@ -2,7 +2,7 @@
 layout: post
 title:  "Álvaro Ibáñez"
 slug: alvaro.ibanez
-published: false
+published: true
 categories: blogs
 description: "Coautor de Microsiervos"
 image:
