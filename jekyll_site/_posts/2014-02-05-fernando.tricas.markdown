@@ -9,12 +9,31 @@ image:
   feature: fernando.tricas.jpg
 ---
 
+**Actualización (6 de febrero de 2014):** Fernando ha actualizado [en su
+blog](http://fernand0.blogalia.com/historias/74308) algunas de las cosas que
+decía en esta entrevista.
+
+> Como el mundo es imperfecto, desde que hicimos la entrevista hubo algún cambio:
+el viejo Galaxy Ace ha sido jubilado y mi teléfono principal ha pasado a ser un
+[Motorola Moto G](moto-g) que reúne algunas de las características que decía al final de
+aquel comentario: precio y tamaño contenido y una duración de batería que me
+permite pasar el día sin preocuparme demasiado de cómo lo utilizo. En
+mensajería instantánea (no) uso el [BBM](bbm) (de hecho, perdí la clave y no he
+conseguido recuperarla) y estoy (no) probando [Telegram][telegram], la nueva estrella
+emergente en el mundo de la mensajería.
+
+[moto-g]: http://www.motorola.com/on/demandware.store/Sites-Motorola_WE-Site/en/Product-Show?pid=moto-g-es
+[bbm]: http://es.blackberry.com/bbm.html
+[telegram]: https://telegram.org/
+
 ### ¿Quién eres y a qué te dedicas?
 
 Soy Fernando Tricas García, profesor de Informática de la Universidad de
-Zaragoza. Abrí un blog en el año 2002 y puedo decir que gracias a eso he
-conocido a un montón de gente interesante y he aprendido muchas cosas. Soy
-usuario de software libre siempre que puedo.
+Zaragoza. Abrí un [blog][fernand0-blog] en el año 2002 y puedo decir que
+gracias a eso he conocido a un montón de gente interesante y he aprendido
+muchas cosas. Soy usuario de software libre siempre que puedo.
+
+[fernand0-blog]: http://fernand0.blogalia.com/
 
 ### ¿Qué hardware utilizas?
 
@@ -101,41 +120,41 @@ Ocasionalmente me toca utilizar [LibreOffice][libreoffice], [Google Docs
 ][google-docs] y a veces no puedo escaparme de utilizar el [Office][office]. Me
 siento igual de poco confortable con todos ellos.
 
-Gestiono el correo del trabajo con [Claws-mail][claws-mail] y [Evolution][gnome-
-evolution] (y estoy dándole una oportunidad a [Geary][geary]). Soy partidario de
-utilizar más de uno porque siempre hay cosillas en momentos concretos que unos
-hacen mejor que otros y también por ir conociendo alternativas y posiblidades.
-Desde el teléfono móvil utilizo [K-9 Mail][k9]. Y uno de texto:
-[Alpine][alpine], que me ha sacado de más de un apuro desde que decidí pasarme a
-los clientes gráficos hace un año y pico. Mi correo personal lo gestiono con
-GMail (tengo varias cuentas para registrarme a servicios de mayor o menor
-fiablidad y esas cuestiones). Para no correr riesgos con Google (la dirección
-que te dan es de ellos, no tuya) dispongo de un dominio propio y [Google Apps
-][google-apps]: de esta forma si en algún momento esa soución se volviera
-inconveniente para mi, podría migrar a otro servicio sin que mis contactos lo
-notaran demasiado.
+Gestiono el correo del trabajo con [Claws-mail][claws-mail] y
+[Evolution][gnome-evolution] (y estoy dándole una oportunidad a
+[Geary][geary]). Soy partidario de utilizar más de uno, porque siempre hay
+cosillas en momentos concretos que unos hacen mejor que otros y también por ir
+conociendo alternativas y posiblidades. Desde el teléfono móvil utilizo
+[K-9 Mail][k9]. Y uno de texto, [Alpine][alpine], que me ha sacado de más de un
+apuro desde que decidí pasarme a los clientes gráficos hace un año y pico. Mi
+correo personal lo gestiono con GMail (tengo varias cuentas para registrarme a
+servicios de mayor o menor fiablidad y esas cuestiones). Para no correr riesgos
+con Google (la dirección que te dan es de ellos, no tuya), dispongo de un
+dominio propio y [Google Apps ][google-apps]: de esta forma, si en algún momento
+esa solución se volviera inconveniente para mi, podría migrar a otro servicio
+sin que mis contactos lo notaran demasiado.
 
 También utilizo el dominio como concentrador de mi presencia en la red utlizando
 [PubwichFork][pubwichfork].
 
 Creo que me costaría mucho más prescindir del calendario de Google, aunque me da
-la impresión que no le prestan la atención que deberían. Relacionado con eso
+la impresión que no le prestan la atención que deberían. Relacionado con eso,
 utilizo bastante [Doodle][doodle], que es un servicio que me permite quedar con
 otras personas para reunirnos sin tener que intercambiar un montón de correos.
 
-Como navegador utilizo [Firefox][firefox] y para algunas cosas [Chromium][chromium].
-Ocasionalmente [Konqueror][konqueror] y otros.
+Como navegador, utilizo [Firefox][firefox] y, para algunas cosas, [Chromium][chromium].
+Ocasionalmente, [Konqueror][konqueror] y otros.
 
-Para el Kindle utilizo mucho (me parece una característica esencial
+Para el Kindle, utilizo mucho (me parece una característica esencial
 del aparato) la posiblilidad de enviarle documentos por correo
-electrónico que es algo que voy haciendo a lo largo del día para
+electrónico, que es algo que voy haciendo a lo largo del día para
 tenerlos disponibles cuando tengo un rato para leer.
 
-En general trato de utilizar herramientas de software libre.
+En general, trato de utilizar herramientas de software libre.
 
-En cuanto a servicios los que más me gusta utilizar serían [Flickr][flickr],
-[twitter][twitter], [Facebook][facebook], [Instagram][instagram],
-[Tumblr][tumblr]. Y sigo utilizando [IRC][irc].También tengo presencia en
+En cuanto a servicios, los que más me gusta utilizar serían [Flickr][flickr],
+[twitter][twitter], [Facebook][facebook], [Instagram][instagram] y
+[Tumblr][tumblr]. Y sigo utilizando [IRC][irc]. También tengo presencia en
 [LinkedIn][linkedin] (me parece muy interesante cómo se están transformando de
 un sitio centrado en las relaciones laborales a algo más centrado en el
 conocimiento y la información). Utlilizo bastantes servicios más, pero no con
@@ -152,10 +171,10 @@ oficiales de los servicios que he comentado hace un momento un par que vale la
 pena comentar: para Twitter utilizo [Twicca][twicca] y para escuchar música
 [MixZing][mixzing]. Gestiono mis contraseñas con [KeePassDroid][keepassdroid].
 [Irssi ConnectBot][irssi-connectbot] me ha sacado de algún apuro cuando estaba
-por ahí y he necesitado acceder a alguno de mis ordenadores. Cuando voy al cine
+por ahí y he necesitado acceder a alguno de mis ordenadores. Cuando voy al cine,
 me gusta echarle un ojo a [IMDb][imdb], hacer el *check-in* con [Miso][miso] y a
 veces me entero de lo que hay en la tele con el [app de
-SincroguíaTV][sincroguiatv]. Si tengo un rato al final del día me gusta echarle
+SincroguíaTV][sincroguiatv]. Si tengo un rato al final del día, me gusta echarle
 un ojo a las fotografías publicadas por amigos y conocidos en redes sociales con
 el app de [Pixable][pixable]. Y los únicos juegos que tengo son
 [Apalabrados][apalabrados] y algún solitario.
@@ -225,7 +244,7 @@ buena batería), hay que comprarlos demasiado grandes. Me gustaría un teléfono
 algo más pequeño que el SII, con un buen procesador y buenas especificaciones,
 buena calidad de pantalla y, sobre todo, buena batería. También me gustaría
 poder hacer como con mis ordenadores: instalarle un sistema operativo de mi
-elección y mucho más abierto que los actuales. En ese sentido miramos con
+elección y mucho más abierto que los actuales. En ese sentido, miramos con
 interés proyectos como [Tizen][tizen], [Firefox OS][firefox-os], Ubuntu y muchos
 otros: la diversidad proporciona salud al ecosistema informático.
 
