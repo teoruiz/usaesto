@@ -1,0 +1,138 @@
+---
+layout: post
+title:  "Carol Peña"
+slug: carol.pena
+published: true
+categories: blogs
+description: "Directora de arte y fotógrafa"
+image:
+  feature: carol.pena.jpg
+---
+
+### ¿Quién eres y a qué te dedicas?
+
+Me llamo Carol Peña. Cuando empecé, a internet no le gustaban demasiado las «ñ»
+y tuve que buscarme un alias; desde entonces, también respondo cuando alguien
+dice @misshedwig en cualquier red social. Soy directora de arte a jornada
+completa y fotógrafa menos tiempo del que me gustaría. Hace unos pocos meses, y
+después de pasar por unas cuantas agencias —Bassat Ogilvy, HerraizSoto,
+Archibald Ingall Stretton o El Laboratorio—, decidí hacerme freelance. Y en esas
+estamos. 
+
+Soy bastante [activa en Instagram](http://instagram.com/misshedwig#), a veces
+cuento cosas en [mi blog](http://misshedwigblog.wordpress.com/), otras tantas
+digo tonterías [en Twitter](https://twitter.com/misshedwig) y recojo mi trabajo
+en [mi web](http://www.misshedwig.com/).
+
+### ¿Qué hardware utilizas?
+
+Trabajo con un [MacBook de 13″](https://www.apple.com/es/macbook-pro/), por la
+movilidad, que a veces conecto a un segundo monitor. Desde el
+[G3](http://en.wikipedia.org/wiki/PowerBook_G3) que no he vuelto a tocar un PC.
+Almaceno cantidades insanas de fotos y material en los [My Book
+Studio](http://www.wdc.com/sp/products/products.aspx?id=200) de Western Digital
+y dejo algunos recursos (tipografías, presets, etc.) y los archivos con los que
+estoy trabajando en [Dropbox](https://www.dropbox.com/).  Odio los ratones,
+trabajo con [tableta](http://es.wikipedia.org/wiki/Tableta_digitalizadora)
+desde hace años. Siempre Wacom, desde
+[Bamboo](http://www.wacom.eu/index4.asp?pid=9240&spid=0&lang=es) a
+[Intuos](http://www.wacom.com/es-es/es/creative/intuos-pen). Soy incapaz de
+trabajar sin música. Cuando no molesto a nadie, uso el [UE
+BOOM](http://www.ultimateears.com/en-us/boom) (un altavoz portátil de Logitech)
+y si estoy en el estudio uso los auriculares del iPhone 5.
+
+Algo que siempre, siempre va conmigo es un [iPhone
+5](http://www.apple.com/es/iphone/). (Y una batería externa de 7000 mAh; amigos
+de Apple, ¿qué tal veis hacer baterías que duren más de una mañana?). Como le
+tengo mucho cariño, a veces le compro juguetes. Por ejemplo: una [funda
+subacuática
+Lifeproof](http://www.lifeproof.com/shop/us_en/iphone-5/iphone-5-case/) o el
+objetivo
+[QX10](http://store.sony.com/smartphone-attachable-lens-style-camera-zid27-DSCQX10//cat-27-catid-Collections-Best-Low-Light-Cameras)
+de Sony.
+
+En cuanto a cámaras, soy bastante fan de todo lo que hace Canon. Y de mi
+[50mm](http://en.wikipedia.org/wiki/Canon_EF_50mm_lens).  Aunque creo que mi
+próxima adquisición va a ser un
+[24-70mm](http://en.wikipedia.org/wiki/Canon_EF_24%E2%80%9370mm_lens). Pero me
+gusta trastear otras cosas. Ahora estoy jugando con la [NEX
+5TL](http://store.sony.com/nex-5t-mirrorless-camera-w-16-50mm-lens-zid27-NEX5TL//cat-27-catid-All-Alpha-NEX-Cameras)
+de Sony. Durante un tiempo probé la [Samsung Galaxy
+Cam](http://www.samsung.com/es/consumer/mobile-phone/galaxy-camera/), pero
+Android me crispa los nervios. Antes lo transportaba en una funda
+[LowePro](http://www.lowepro.com/), pero hace poco compré el [Photo Insert de
+la
+Kanken](http://www.ilovemykanken.com/shop/products/fjallraven-kanken-photo-insert.htm)
+y lo llevo todo allí.
+
+Ando todavía decidiendo si me gustan o no los eBooks, así que alterno el
+[Kindle](http://www.amazon.es/gp/product/B007HCCOD0/ref=amb_link_172075267_3?pf_rd_m=A1AT7YVPFBWXBL&pf_rd_s=center-1&pf_rd_r=15Q3918XK1BJ1QD794D0&pf_rd_t=101&pf_rd_p=464811727&pf_rd_i=818936031)
+y el papel hasta que tome una decisión. Que intuyo que no llegará nunca.
+
+### ¿Y qué software?
+
+Lo primero que hago al empezar el día es parar las tres alarmas del iPhone. Y
+bajarle el brillo a la pantalla. Y ahí empieza la rutina: con los ojos medio
+cerrados y, aún desde el iPhone, chequeo el correo, Twitter e
+[Instagram](http://www.instagram.com).
+
+Después del café, y ya desde el ordenador, abro
+[Chrome](http://www.google.com/intl/es/chrome/browser/). Uso casi todo lo que
+sale de Google: [Gmail](https://www.google.com/intl/es/mail/help/about.html),
+[Hangout](http://www.google.com/+/learnmore/hangouts/?hl=es) (aunque a veces le
+soy infiel con [Skype](http://www.skype.com/es/)),
+[Drive](https://www.google.com/intl/es/drive/)... Todo. Bueno, todo menos
+[Google+](http://www.google.com/intl/es/+/learnmore/).  Tengo
+[Feedly](http://feedly.com) (antes fueron [Google
+Reader](http://es.wikipedia.org/wiki/Google_Reader) y
+[Bloglines](http://www.bloglines.com/)). Es bastante ordenadito y eso me
+facilita mucho la vida. Durante años utilicé mucho
+[Delicious](https://delicious.com/), pero desde hace un par de años uso
+[Pinterest](https://es.pinterest.com/) para crear tableros de inspiración y
+para enviar referencias a gente con la que esté trabajando a distancia o a los
+alumnos.  Comparto, también con ellos, mucho material y presentaciones a través
+de Dropbox.
+
+Las clases y las charlas las preparo con
+[Keynote](http://www.apple.com/es/mac/keynote/). Es simple y bonito. La
+panacea, vamos.  Para retocar fotos siempre uso
+[Lightroom](http://www.adobe.com/es/products/photoshop-lightroom.html). Soy
+bastante fan de [VSCO Films](http://vsco.co/film). Y luego, en algunos casos,
+las paso por [Photoshop](http://www.photoshop.com/) para los ajustes más
+puntuales.  Cuando diseño uso
+[Illustrator](http://www.adobe.com/es/products/illustrator.html) y Photoshop.
+En su momento usaba mucho [Quark](http://www.quark.com/) (y después
+[inDesign](http://www.adobe.com/products/indesign.html)), pero llevo años sin
+maquetar.
+
+Cuando tengo que escribir, uso [OmmWriter](http://www.ommwriter.com/). Un
+editor de texto zen que parieron los chicos de
+[HerraizSoto](http://www.herraizsoto.com/index_es.html). Me ayuda a estar en
+foco y es tan bonito que todo lo que escribes allí queda mejor. 
+
+En el iPhone, lo que más uso es
+[Snapseed](https://itunes.apple.com/EN/app/snapseed/id439438619?mt=8) y
+[VSCOcam](http://vsco.co/vscocam) para editar fotos. Gloriabendita. Entro un
+millón de veces al día en Instagram. Me descargo bastantes podcasts, desde para
+esuchar [La Competència](http://rac1.org/lacompetencia/) en Rac1 hasta para
+meditar (el último descubrimiento ha sido [Meditation
+Oasis](https://www.meditationoasis.com/podcast/listen-to-podcast/)).  Uso
+[Notegraphy](https://notegraphy.com/) para crear notas bonitas y compartirlas
+en el resto de redes.  Para vídeo llamadas alterno Skype y
+[FaceTime](http://www.apple.com/ios/facetime/). Y, en cuanto a mensajería, sigo
+quedándome con [Whatsapp](http://www.whatsapp.com/). Y todo esto mientras suena
+algo en [Spotify](https://www.spotify.com/es/).
+
+
+### ¿Cuál sería tu equipo de ensueño?
+
+Por resumir: todos los productos que crea Apple. Y, concretando un poco más: un [iMac](http://www.apple.com/es/imac/) de 27” en el estudio, un Macbook Pro Retina de 15" para moverme.
+Una [Canon 5D Mark II](http://www.canon.es/For_Home/Product_Finder/Cameras/Digital_SLR/EOS_5D_Mark_II/) *que no pesara* lo que pesa la de ahora. Con (soy de ideas fijas) un 50mm y un 24-70mm.
+
+### Rellena esto. Me encantaría que ________ respondiera también a estas preguntas.
+
+¿Pueden ser dos?
+
+Me encantaría que [Rafa Soto](https://twitter.com/RafaSoto) respondiera también a estas preguntas.
+
+Me encantaría que [Rafa Gil](https://twitter.com/nopodemosmas) respondiera también a estas preguntas.
